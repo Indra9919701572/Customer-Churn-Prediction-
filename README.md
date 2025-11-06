@@ -1,9 +1,9 @@
-🧠 Customer Churn Prediction using Machine Learning
+# 🧠 Customer Churn Prediction using Machine Learning
 
 This project focuses on predicting customer churn — identifying customers who are likely to stop using a company’s service.
 By applying machine learning algorithms, the project helps businesses make data-driven decisions to reduce customer loss and improve retention strategies.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze customer data to understand churn behavior.
 
@@ -13,7 +13,7 @@ Compare different ML algorithms for performance.
 
 Provide insights through data visualization.
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
 Programming Language: Python
 
@@ -21,7 +21,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Environment: Jupyter Notebook
 
-📊 Workflow
+## 📊 Workflow
 
 Data Preprocessing – Handle missing values, encode categorical features, and scale data.
 
@@ -41,34 +41,33 @@ Random Forest Classifier
 
 Model Evaluation – Use metric like Accuracy
 
-📈 Results
+## 📈 Results
 
 The Support Vector Classifier model provided the most accurate churn predictions.
 
 Key features influencing churn include tenure, monthly charges, and contract type.
 
-📂 Dataset
+## 📂 Dataset
 
 Dataset Source: https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis
 
-🚀 How to Use
-# Clone the repository
+## 🚀 How to Use
+## Clone the repository
 git clone https://github.com/yourusername/customer-churn-prediction.git
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Open the Jupyter Notebook
+## Open the Jupyter Notebook
 jupyter notebook Customer_Churn_Prediction.ipynb
 
-💡 Conclusion
+## 💡 Conclusion
 
 This project demonstrates how machine learning can help predict and reduce customer churn by identifying at-risk customers and enabling proactive retention efforts.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Indra Kumar Prajapati
-📧 9919indrakumar@gmail.com
+ Indra Kumar Prajapati
+ 📧 9919indrakumar@gmail.com
 
-🌐 www.linkedin.com/in/
-indra-prajapati-109988280
+## 🌐 www.linkedin.com/in/indra-prajapati-109988280
