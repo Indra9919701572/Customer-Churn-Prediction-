@@ -53,7 +53,7 @@ Dataset Source: https://www.kaggle.com/datasets/abdullah0a/telecom-customer-chur
 
 ## 🚀 How to Use
 ## Clone the repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Indra9919/Customer-Churn-Prediction-.git
 
 ## Install dependencies
 pip install -r requirements.txt
