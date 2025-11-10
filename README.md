@@ -74,4 +74,4 @@ This project demonstrates how machine learning can help predict and reduce custo
  Indra Kumar Prajapati
  📧 9919indrakumar@gmail.com
 
-## 🌐 www.linkedin.com/in/indra-prajapati-109988280
+🌐 www.linkedin.com/in/indra-prajapati-109988280
