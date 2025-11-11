@@ -48,6 +48,7 @@ The Support Vector Classifier model provided the most accurate churn predictions
 
 Key features influencing churn include tenure, monthly charges, and contract type.
 
+
 ## 🚀 Live Demo
 [Click here to view the Streamlit App](https://indra-prediction.streamlit.app/)
 
