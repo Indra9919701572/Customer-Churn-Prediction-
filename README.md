@@ -48,6 +48,10 @@ The Support Vector Classifier model provided the most accurate churn predictions
 
 Key features influencing churn include tenure, monthly charges, and contract type.
 
+## 🚀 Live Demo
+[Click here to view the Streamlit App](https://your-app-name.streamlit.app)
+
+
 ## 📂 Dataset
 
 Dataset Source: https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis
