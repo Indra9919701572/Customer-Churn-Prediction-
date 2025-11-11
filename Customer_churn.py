@@ -11,7 +11,7 @@ import numpy as np
 scaler=joblib.load("scaler.pkl")
 model=joblib.load("model.pkl")
 
-st.title("Churn Predictin App")
+st.title("Churn Prediction App")
 
 st.divider()
 
