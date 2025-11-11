@@ -42,9 +42,6 @@ Random Forest Classifier
 Model Evaluation – Use metric like Accuracy
 
 
-![Coding GIF](https://www.rsm.global/australia/sites/default/files/media/GIFs/tech-whitepapers-saas%20%284%29.gif)
-
-
 ## 📈 Results
 
 The Support Vector Classifier model provided the most accurate churn predictions.
